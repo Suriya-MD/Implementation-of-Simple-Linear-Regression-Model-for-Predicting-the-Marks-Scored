@@ -78,7 +78,8 @@ plt.show()
 ```
 
 ## Output:
-
+### Name   :  SURIYA M
+### Reg no :  212223110055
 ### Head
 ![Screenshot 2025-03-05 225409](https://github.com/user-attachments/assets/eb01a188-a7c0-401f-a38e-de6422d7e9e9)
 ### Tail
@@ -97,7 +98,8 @@ plt.show()
 ![Screenshot 2025-03-05 225841](https://github.com/user-attachments/assets/9f8b488c-5d47-4d80-b68a-449834bbd6b6)
 ### Testing Set
 ![Screenshot 2025-03-05 225905](https://github.com/user-attachments/assets/f319fa47-0d6e-40cc-8794-7d1ccd61ef0c)
-
+### Name   :  SURIYA M
+### Reg no :  212223110055
 ## Result:
 
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
