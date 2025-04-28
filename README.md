@@ -36,6 +36,7 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: SURIYA M
 RegisterNumber: 212223110055
 */
+print("Name: SURIYA M\nReg no: 212223110055\n")
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -75,12 +76,14 @@ plt.title("Hours vs Scores (Testing Set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
+print("Name: SURIYA M\nReg no: 212223110055\n")
+
 ```
 
 ## Output:
-### Name   :  SURIYA M
-### Reg no :  212223110055
+
 ### Head
+![image](https://github.com/user-attachments/assets/7eb0cae6-dfbc-4087-b289-2b8463354245)
 ![Screenshot 2025-03-05 225409](https://github.com/user-attachments/assets/eb01a188-a7c0-401f-a38e-de6422d7e9e9)
 ### Tail
 ![Screenshot 2025-03-05 225429](https://github.com/user-attachments/assets/9d3a05fd-bfb4-43c1-9885-35206f5e73f6)
@@ -98,8 +101,8 @@ plt.show()
 ![Screenshot 2025-03-05 225841](https://github.com/user-attachments/assets/9f8b488c-5d47-4d80-b68a-449834bbd6b6)
 ### Testing Set
 ![Screenshot 2025-03-05 225905](https://github.com/user-attachments/assets/f319fa47-0d6e-40cc-8794-7d1ccd61ef0c)
-### Name   :  SURIYA M
-### Reg no :  212223110055
+![image](https://github.com/user-attachments/assets/f123130b-4646-4d42-a093-69b3f908c387)
+
 ## Result:
 
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
